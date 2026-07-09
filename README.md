@@ -1,6 +1,7 @@
+![Web Developer](https://media.licdn.com/dms/image/v2/D5616AQFrue_e3BbCyg/profile-displaybackgroundimage-shrink_200_800/B56Z9Gn7_BKEAQ-/0/1783596302514?e=1785369600&v=beta&t=k6d446-thdnwX8H0QgIUEWohvnVVYeKnlpPPSi446_Y)
 ### Hi there 👋, I'm Raihan
 #### Web Developer
-![Web Developer](https://media.licdn.com/dms/image/v2/D5616AQFrue_e3BbCyg/profile-displaybackgroundimage-shrink_200_800/B56Z9Gn7_BKEAQ-/0/1783596302514?e=1785369600&v=beta&t=k6d446-thdnwX8H0QgIUEWohvnVVYeKnlpPPSi446_Y)
+
 
 I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind.  I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with JavaScript, React and Next js but some technologies I enjoy working with include WordPress.PHP
 
