@@ -1,4 +1,4 @@
-![Web Developer](https://arturssmirnovs.ghttps://www.linkedin.com/in/smraihan777/overlay/background-photo/ithub.io/github-profile-readme-generator/images/banner.png)
+![Web Developer]https://ibb.co.com/6cX7vg77
 
 ### Hi there 👋, I'm Raihan
 #### Web Developer
