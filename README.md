@@ -59,7 +59,7 @@ I’m a front-end web developer passionate about making error-free websites with
 </div>
 
 
----
+
 <p align="center">
   <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=SM-Raihan77&icon=7&color=12" /></a>
 </p>
