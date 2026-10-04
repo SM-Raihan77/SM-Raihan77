@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="আপনার_ImgBB_এর_ব্যানার_লিংক_এখানে_দিন" alt="Banner" width="100%" />
+<p align="c[enter">
+  <img src=](https://ibb.co.com/6cX7vg77)"" alt="Banner" width="100%" />
 </p>
 
 # 💫 About Me:
