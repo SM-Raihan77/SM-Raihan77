@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/6cX7vg77/Hello-I-m-Raihan.png" alt="Banner" width="600px" />
+  <img src="https://i.ibb.co.com/6cX7vg77/Hello-I-m-Raihan.png" alt="Banner"  />
 </p>
 
 # 💫 About Me:
