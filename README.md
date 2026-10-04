@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co.com/PsDvTwvv/Hello-I-m-Raihan.jpg" alt="Hello I m Raihan" border="0">
 # 💫 About Me:
-I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind.  I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with JavaScript, React and Next js but some technologies I enjoy working with include WordPress.PHP
+I’m a front-end web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind.  I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with JavaScript, React and Next js but some technologies I enjoy working with include WordPress and PHP
 
 
 ## 🌐 Socials:
@@ -58,15 +58,6 @@ I’m a Front End Web developer passionate about making error-free websites with
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SM-Raihan77&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SM-Raihan77&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
-</div>
-
-### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SM-Raihan77&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</div>
 
 ---
 <p align="center">
